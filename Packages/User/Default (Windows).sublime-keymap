@@ -1,0 +1,21 @@
+[
+ 
+    //chrome
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                "extensions":".*"
+            }
+     },
+    //firefox
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "D:\\program files (x86)\\firefox.exe",
+                "extensions":".*" //匹配任何文件类型
+            }
+    },
+    { "keys": ["alt+b"], "command": "build" },
+    { "keys": ["alt+shift+b"], "command": "build", "args": {"select": true} },
+    ]

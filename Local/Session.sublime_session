@@ -1,0 +1,4172 @@
+{
+	"folder_history":
+	[
+		"/F/web-design/react",
+		"/G/node/nodelx",
+		"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/5xO2DE6DVo",
+		"/F/web-design/vue-cli/vue-ro",
+		"/F/web-design/JavaScript/learn",
+		"/F/web-design/JavaScript/飞秋/musicPlayer",
+		"/F/web-design/JavaScript/MyWork",
+		"/G/daydaycook",
+		"/G/vuecli",
+		"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫",
+		"/G/webpacklx",
+		"/F/girls",
+		"/F/server",
+		"/F/web-design/JavaScript",
+		"/G/H5game",
+		"/D/wamp64/www",
+		"/F/web-design",
+		"/G/Vue",
+		"/D/wamp64/www/jin",
+		"/F/前端课程"
+	],
+	"last_version": 3143,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 728.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"pro",
+						"prototype\tjsProp"
+					],
+					[
+						"tras",
+						"translateX()"
+					],
+					[
+						"pos",
+						"position\t(recipes.vue)"
+					],
+					[
+						"ur",
+						"url()"
+					],
+					[
+						"inli",
+						"inline-block\t(recipes.vue)"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"bordb",
+						"border-box"
+					],
+					[
+						"boxs",
+						"box-sizing"
+					],
+					[
+						"comp",
+						"components\t(shopCar.vue)"
+					],
+					[
+						"che",
+						"checkedId"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"fonts",
+						"font-size\t(recipes.vue)"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"compo",
+						"components\t(index.js)"
+					],
+					[
+						"exp",
+						"export\t(App.vue)"
+					],
+					[
+						"bord",
+						"border-radius\t(message.vue)"
+					],
+					[
+						"inlin",
+						"inline-block\t(banner.vue)"
+					],
+					[
+						"hide",
+						"hidden"
+					],
+					[
+						"ri",
+						"rightLay"
+					],
+					[
+						"lef",
+						"leftLay"
+					],
+					[
+						"mar",
+						"margin\t(banner.vue)"
+					],
+					[
+						"pa",
+						"padding\t(banner.vue)"
+					],
+					[
+						"changeshop",
+						"changeshopL"
+					],
+					[
+						"shop",
+						"shopList"
+					],
+					[
+						"sh",
+						"shopList"
+					],
+					[
+						"tra",
+						"translateX\t(移动端轮播图.html)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pi",
+						"pic_url\t(quanbu.js)"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"icon",
+						"iconfont"
+					],
+					[
+						"banL",
+						"banList\t(mainPage.vue)"
+					],
+					[
+						"cha",
+						"changep1"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"fun",
+						"function\t(index.html)"
+					],
+					[
+						"ban",
+						"banList"
+					],
+					[
+						"v",
+						"vue"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"boer",
+						"border-radius"
+					],
+					[
+						"dis",
+						"dist\t(teste.html)"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"scr",
+						"scroll"
+					],
+					[
+						"console",
+						"console.log\t(index.html)"
+					],
+					[
+						"cons",
+						"console\t(break.js)"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"pars",
+						"parseInt"
+					],
+					[
+						"fontS",
+						"font-style"
+					],
+					[
+						"te",
+						"textarea\tHTML/Element"
+					],
+					[
+						"proto",
+						"prototype〔variable〕"
+					],
+					[
+						"cos",
+						"console\tjsProp"
+					],
+					[
+						"touch",
+						"touchmove"
+					],
+					[
+						"offst",
+						"offset"
+					],
+					[
+						"ta",
+						"target\tjsEvent"
+					],
+					[
+						"ar",
+						"arg"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"inner",
+						"innerHTML\t(jquery-3.2.1.js)"
+					],
+					[
+						"sel",
+						"selector"
+					],
+					[
+						"sle",
+						"selector"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"getEle",
+						"getElementsByTagName\tjsDOM"
+					],
+					[
+						"pre",
+						"prepend\tjQuery"
+					],
+					[
+						"bgco",
+						"background-color"
+					],
+					[
+						"w",
+						"window\t(task.html)"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"que",
+						"querySelectorAll"
+					],
+					[
+						"queryS",
+						"querySelectorAll\t(移动端轮播图.html)"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"star",
+						"startUrl"
+					],
+					[
+						"requ",
+						"require"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"lists",
+						"list-style-type"
+					],
+					[
+						"tex",
+						"text"
+					],
+					[
+						"val",
+						"value\tAttr"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"user",
+						"userName"
+					],
+					[
+						"djq_p",
+						"djq_password"
+					],
+					[
+						"style",
+						"style\tHTML/Element"
+					],
+					[
+						"t",
+						"type\tAttr"
+					],
+					[
+						"conne",
+						"connect\t(user.php)"
+					],
+					[
+						"us",
+						"userName"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"body",
+						"bodyParser"
+					],
+					[
+						"pass",
+						"password\t(lsy_order.html)"
+					],
+					[
+						"doc",
+						"documentElement\tjsDOM"
+					],
+					[
+						"R",
+						"RegExp\t(administrator.html)"
+					],
+					[
+						"quers",
+						"querySelectorAll\t(index.js)"
+					],
+					[
+						"fail",
+						"failBack"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
+						"lsy",
+						"lsy_Sale"
+					],
+					[
+						"ne",
+						"nereus\t(getData1.php)"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"loca",
+						"localStorage\tjsProp"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"JSON_",
+						"json_encode"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"spli",
+						"split\t(jquery-3.2.1.js)"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"onaj",
+						"onaj\t(ajax-sni..sublime-snippet)"
+					],
+					[
+						"da",
+						"dataType\t(taob.html)"
+					],
+					[
+						"aj",
+						"ajax\t(taob.html)"
+					],
+					[
+						"ba",
+						"background\t(index-yuanban - 副本.html)"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"n",
+						"null"
+					],
+					[
+						"mous",
+						"mouseout"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"getEl",
+						"getElementsByClassName\t(index.js)"
+					],
+					[
+						"child",
+						"children\t(index.html)"
+					],
+					[
+						"xti",
+						"xtitle\t(index.html)"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"getE",
+						"getElementsByClassName\t(jquery-3.2.1.js)"
+					],
+					[
+						"getele",
+						"getElementsByTagName\t(jquery-3.2.1.js)"
+					],
+					[
+						"qeu",
+						"querySelector"
+					],
+					[
+						"gete",
+						"getElementsByClassName\t(jquery-3.2.1.js)"
+					],
+					[
+						"els",
+						"else\t(index.html)"
+					],
+					[
+						"chidl",
+						"children"
+					],
+					[
+						"off",
+						"offset\t(jquery-3.2.1.js)"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"clear",
+						"clearTimeout"
+					],
+					[
+						"clea",
+						"clearTimeout"
+					],
+					[
+						"hei",
+						"height"
+					],
+					[
+						"ani",
+						"animate\t(封装的函数.js)"
+					],
+					[
+						"ab",
+						"absolute\t(01-轮播图.html)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "html",
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"wr",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"paka",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"less",
+						"Set Syntax: Less"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"ona",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"Snippet: ",
+						"Snippet: 打开手机上其它应用，并且可以传递参数"
+					],
+					[
+						"snip",
+						"Snippet: ajax-sni."
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"acti",
+						"Material Theme: Activate theme"
+					],
+					[
+						"jsa",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sidebar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files (x86)/360/360Safe/safemon/chrome/manifest.json",
+				"/G/node/nodelx/teste.html",
+				"/F/web-design/JavaScript/MyWork/练手轮播图.html",
+				"/G/daydaycook/src/components/mainPage.vue",
+				"/G/daydaycook/src/components/recipes.vue",
+				"/G/daydaycook/src/api/car.php",
+				"/G/daydaycook/src/api/myfond.php",
+				"/D/wamp64/www/jin/lycar.js",
+				"/G/daydaycook/src/components/user.vue",
+				"/G/node/nodelx/httptest.js",
+				"/G/node/insMediaDown/insMediaDown/index.js",
+				"/G/node/nodelx/sock.js",
+				"/G/daydaycook/node_modules/vue-img-inputer/README-CN.MD",
+				"/F/web-design/vue-cli/vuexpre/src/components/txt2.vue",
+				"/F/web-design/vue-cli/vuexpre/src/vuex/index.js",
+				"/G/daydaycook/index.html",
+				"/G/daydaycook/node_modules/_vux@2.8.0@vux/src/theme.less",
+				"/G/node/insMediaDown/insMediaDown/config.js",
+				"/F/web-design/vue-cli/vuexpre/src/components/list2.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/pic2.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/news.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/pic.vue",
+				"/F/web-design/vue-cli/vuexpre/package.json",
+				"/F/web-design/vue-cli/vuexpre/src/components/xdialog.vue",
+				"/G/daydaycook/src/api/qq.php",
+				"/F/web-design/vue-cli/vue-ro/src/App.vue",
+				"/F/web-design/vue-cli/vuexpre/src/App.vue",
+				"/F/web-design/vue-cli/vue-ro/package.json",
+				"/D/wamp64/www/jin/wang/getData1.php",
+				"/D/wamp64/www/jin/wang/danpin10.html",
+				"/G/daydaycook/node_modules/axios/README.md",
+				"/D/wamp64/www/jin/wang/fenlei.html",
+				"/D/wamp64/www/jin/wang/quanbu.js",
+				"/G/daydaycook/src/assets/zepto.js",
+				"/F/web-design/vue-cli/vue-ro/src/router/index.js",
+				"/G/daydaycook/src/assets/zepto.min.js",
+				"/G/daydaycook/src/assets/ajax.js",
+				"/G/daydaycook/node_modules/zepto/src/ajax.js",
+				"/D/wamp64/www/jin/wang/car.php",
+				"/D/wamp64/www/jin/wang/qq.php",
+				"/D/wamp64/www/jin/wang/taob2.php",
+				"/G/daydaycook/src/vuex/index.js",
+				"/G/daydaycook/src/main.js",
+				"/G/daydaycook/src/base/banner.vue",
+				"/G/vuecli/src/components/message.vue",
+				"/F/web-design/JavaScript/MyWork/excellent/瀑布流/瀑布流.html",
+				"/F/web-design/JavaScript/MyWork/移动端轮播图.html",
+				"/G/daydaycook/src/App.vue",
+				"/G/daydaycook/src/components/headTitle.vue",
+				"/G/daydaycook/src/components/shopCar.vue",
+				"/G/daydaycook/src/components/myFoot.vue",
+				"/G/daydaycook/src/router/index.js",
+				"/G/daydaycook/config/index.js",
+				"/G/vuecli/src/App.vue",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/G/daydaycook/node_modules/vue-jsonp/README.md",
+				"/G/daydaycook/node_modules/_alloyfinger@0.1.13@alloyfinger/README.md",
+				"/G/daydaycook/node_modules/_boom@2.10.1@boom/node_modules/hoek/lib/index.js",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/webpack.config.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/index.html",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/src/main.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/src/exportModule.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/dist/module.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/dist/build.js",
+				"/D/wamp64/www/jin/lsy/js/car.php",
+				"/D/wamp64/www/jin/lsy/lsy_order.html",
+				"/D/wamp64/www/jin/lsy/js/lsy_order.js",
+				"/D/wamp64/www/jin/lsy/shopcar.html",
+				"/D/wamp64/www/jin/lsy/.project",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/rem-unit.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/rem-unit/rem-unit.sublime-settings",
+				"/G/node/nodelx/node_modules/fstream/lib/socket-reader.js",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/爬虫制作步骤.txt",
+				"/G/vuecli/src/main.js",
+				"/G/vuecli/index.html",
+				"/G/wei/wafer2-quickstart-nodejs-master/server/config.js",
+				"/G/vuecli/src/components/star.vue",
+				"/F/web-design/JavaScript/飞秋/jquery day 04/五角星.html",
+				"/F/girls/inskeeper.js",
+				"/F/girls/node_modules/request/README.md",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/main.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/index.js",
+				"/G/vuecli/node_modules/vue-resource/test/webpack.config.js",
+				"/G/vuecli/node_modules/vue-resource/src/promise.js",
+				"/G/vuecli/node_modules/vue-resource/README.md",
+				"/G/vuecli/package.json",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/routes/users.js",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/app.js",
+				"/F/girls/main.js",
+				"/F/girls/imgBridge/imgBridge.js",
+				"/G/ceshiyix.html",
+				"/G/wei/pages/air_quality/air_quality.js",
+				"/D/chrome download/wxapp-jsapi-master/demo/pages/weather/weather.wxml",
+				"/G/wei/pages/air_quality/result.js",
+				"/G/wei/pages/air_quality/result.wxml",
+				"/G/wei/libs/bmap-wx.min.js",
+				"/G/wei/app.js",
+				"/G/wei/pages/index/index.js",
+				"/G/wei/app.json",
+				"/G/webpacklx/webpack.config.js",
+				"/G/wei/libs/bmap-wx.js",
+				"/D/wamp64/www/jin/webpack.config.js",
+				"/G/wechat/air/wechat-weapp-lifeTools/lifeTools/app.js",
+				"/D/chrome download/wxapp-jsapi-master/demo/pages/weather/weather.js",
+				"/G/wei/app.wxss",
+				"/G/wei/pages/index/index.wxml",
+				"/G/H5game/html5 canvas经典的打砖块小游戏源码/break2.js",
+				"/G/webpacklx/index.html",
+				"/C/Users/东哥/Documents/Tencent Files/2216573618/FileRecv/task.html",
+				"/F/web-design/JavaScript/飞秋/02作业.html",
+				"/D/chrome download/wxapp-jsapi-master/src/.DS_Store",
+				"/D/chrome download/wxapp-jsapi-master/src/bmap-wx.js",
+				"/G/wei/pages/air_quality/result.wxss",
+				"/D/wamp64/www/jin/lyd/user.html",
+				"/G/webpacklx/package.json",
+				"/G/wei/pages/logs/logs.wxml",
+				"/G/H5game/html5 canvas经典的打砖块小游戏源码/break.js",
+				"/F/web-design/前端酷炫小动画/拖拽滑块进行验证.html",
+				"/C/Users/东哥/Documents/Tencent Files/2216573618/FileRecv/MobileFile/新建文件夹/webpack.config.js",
+				"/G/node/nodelx/gulpfile.js",
+				"/G/node/nodelx/css/hh.scss",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/cssrem.sublime-settings",
+				"/G/H5game/html5 canvas经典的打砖块小游戏源码/index.html"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"for",
+					"help",
+					"))",
+					"console.log(",
+					"5",
+					"15px",
+					"5",
+					"auto",
+					"@/ass",
+					"img",
+					"mg",
+					"pic",
+					"shoplist",
+					"un",
+					"737",
+					".replace(/<[^<>]+>/g,'')",
+					"tao",
+					"'￥",
+					"ti",
+					"this.pic[",
+					"@",
+					"price:'小蛋糕'",
+					"pric",
+					"con",
+					"pC",
+					"Car",
+					"recipe",
+					"15",
+					"p",
+					"'changesho",
+					"8",
+					".leftLay",
+					"shop",
+					"changeshop",
+					"foodList",
+					"tt",
+					"con",
+					"h:'/'",
+					"path:'/'",
+					"h3",
+					"foodList",
+					"foodlist",
+					"ds",
+					"icons",
+					"icon\">",
+					"sr",
+					"class=\"iconfo",
+					"<i cla",
+					"img",
+					"nn",
+					"<p class=\"title\">{{x.title}}</p>",
+					"{{x}}",
+					"jsonp",
+					"add",
+					"lsyAdd",
+					"lsyAdd()",
+					"lsyAdd();",
+					"ice",
+					"i",
+					"http",
+					"https",
+					"http",
+					"BMapWX",
+					"BMapWx",
+					"option",
+					"%;\n",
+					"2",
+					"long",
+					"+'px'",
+					"textarea",
+					"div",
+					"curl",
+					"3000",
+					"ballmove",
+					"addImage",
+					"play",
+					"paly",
+					"Game.context",
+					"this",
+					"this.",
+					"context",
+					"Context",
+					"context",
+					"\">\n",
+					"ballX",
+					"this.",
+					"play",
+					"gameTick",
+					"clearScreen",
+					"fillTex",
+					"fillText",
+					"function",
+					"leval",
+					"level",
+					"init",
+					"cat.$('.banner')",
+					";\n",
+					"cat.$('.banner')",
+					"prototype",
+					"rnd",
+					"boardX",
+					"mouseMoveHandler",
+					"game",
+					".start",
+					"addImage",
+					"ball",
+					"bricks",
+					"thinking-glow",
+					"createjs",
+					"createjs.LoadQueue",
+					"manifest",
+					"this",
+					"$(this)",
+					"extend",
+					"fn",
+					".fn",
+					"$('.banner')[0].on",
+					" $('.banner')[0]",
+					"$('.banner').on",
+					"this[0]",
+					"val:",
+					".val",
+					".html=function",
+					".html()",
+					".html",
+					"fn.html",
+					"prototype.html",
+					"html"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 72.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 48.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"JavaScript\\飞秋\\02作业.html"
+					],
+					[
+						"验证",
+						"JavaScript\\飞秋\\ajax02(1)\\验证码.html"
+					],
+					[
+						"拖拽",
+						"JavaScript\\MyWork\\拖拽面向对象2.html"
+					],
+					[
+						"插件",
+						"JavaScript\\飞秋\\JQ放大镜\\jq放大镜插件.js"
+					],
+					[
+						"练手",
+						"JavaScript\\MyWork\\练手轮播图.html"
+					],
+					[
+						"放大镜",
+						"web-design\\JavaScript\\飞秋\\JQ放大镜\\jq放大镜插件.html"
+					],
+					[
+						"jquery-3",
+						"web-design\\jquery-3.2.1.js"
+					],
+					[
+						"滑",
+						"web-design\\前端酷炫小动画\\拖拽滑块进行验证.html"
+					],
+					[
+						"ser",
+						"web-design\\JavaScript\\MyWork\\server.js"
+					],
+					[
+						"jquery",
+						"web-design\\jquery-3.2.1.js"
+					],
+					[
+						"qq",
+						"jin\\lyd\\qq.php"
+					],
+					[
+						"城市",
+						"前端课程\\JavaScript练习\\MyWork\\城市选择.html"
+					],
+					[
+						"zcdl",
+						"前端课程\\JavaScript练习\\飞秋\\sql\\zcdl.php"
+					],
+					[
+						"kai",
+						"jin\\lyd\\register\\kaitou  jiewei.html"
+					],
+					[
+						"ski",
+						"jin\\skip.js"
+					],
+					[
+						"kaitou",
+						"前端课程\\JavaScript练习\\飞秋\\kaitou  jiewei.html"
+					],
+					[
+						"book",
+						"JavaScript练习\\飞秋\\ajax02\\book\\book.html"
+					],
+					[
+						"danpin",
+						"D:\\chrome download\\danpin.html"
+					],
+					[
+						"sea",
+						"JavaScript练习\\MyWork\\search接口.js"
+					],
+					[
+						"boo",
+						"JavaScript练习\\飞秋\\book.php"
+					],
+					[
+						"滑块",
+						"前端酷炫小动画\\拖拽滑块进行验证.html"
+					],
+					[
+						"瀑布流",
+						"JavaScript练习\\飞秋\\ajax03\\瀑布流\\瀑布流.html"
+					],
+					[
+						"exell",
+						"JavaScript练习\\MyWork\\excellent\\水仙数.html"
+					],
+					[
+						"封装",
+						"封装的函数.js"
+					],
+					[
+						"查找",
+						"JavaScript练习\\飞秋\\jquery day 02\\查找.html"
+					],
+					[
+						"周末",
+						"周末作业\\index.html"
+					],
+					[
+						"旋转木马",
+						"JavaScript练习\\飞秋\\js-12\\13-旋转木马.html"
+					],
+					[
+						"节流",
+						"JavaScript练习\\飞秋\\js-13\\10-选项卡切换闭包节流.html"
+					],
+					[
+						"city",
+						"JavaScript练习\\飞秋\\citydata.js"
+					],
+					[
+						"分页",
+						"JavaScript练习\\飞秋\\09-分页.html"
+					],
+					[
+						"轮播图",
+						"JavaScript练习\\飞秋\\js-15获取位置和阻止事件\\01-轮播图.html"
+					],
+					[
+						"手风琴",
+						"手风琴\\手风琴.html"
+					],
+					[
+						"计算器",
+						"JavaScript练习\\MyWork\\计算器.html"
+					],
+					[
+						"手",
+						"手风琴作业\\手风琴.html"
+					],
+					[
+						"木马",
+						"JavaScript练习\\飞秋\\js-12\\13-旋转木马.html"
+					],
+					[
+						"do轮播",
+						"JavaScript练习\\MyWork\\DOM轮播图.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 167.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1591.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"res",
+						"resolve"
+					],
+					[
+						"storeI",
+						"storeIndex"
+					],
+					[
+						"quic",
+						"quickSort"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"dat",
+						"dat2"
+					],
+					[
+						"addE",
+						"addEventListener\t(index.html)"
+					],
+					[
+						"he",
+						"height\tjsScreen"
+					],
+					[
+						"in",
+						"innerHeight\tjsWindow"
+					],
+					[
+						"inne",
+						"innerWidth\tjsWindow"
+					],
+					[
+						"getE",
+						"getElementsByClassName\tjsDOM"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"time",
+						"timeOut"
+					],
+					[
+						"grid-",
+						"grid-auto-columns"
+					],
+					[
+						"grid-tem",
+						"grid-template-rows"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"pro",
+						"prototype\tjsProp"
+					],
+					[
+						"tras",
+						"translateX()"
+					],
+					[
+						"pos",
+						"position\t(recipes.vue)"
+					],
+					[
+						"ur",
+						"url()"
+					],
+					[
+						"inli",
+						"inline-block\t(recipes.vue)"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"bordb",
+						"border-box"
+					],
+					[
+						"boxs",
+						"box-sizing"
+					],
+					[
+						"comp",
+						"components\t(shopCar.vue)"
+					],
+					[
+						"che",
+						"checkedId"
+					],
+					[
+						"flex",
+						"flex-direction"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"fonts",
+						"font-size\t(recipes.vue)"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"compo",
+						"components\t(index.js)"
+					],
+					[
+						"exp",
+						"export\t(App.vue)"
+					],
+					[
+						"bord",
+						"border-radius\t(message.vue)"
+					],
+					[
+						"inlin",
+						"inline-block\t(banner.vue)"
+					],
+					[
+						"hide",
+						"hidden"
+					],
+					[
+						"ri",
+						"rightLay"
+					],
+					[
+						"lef",
+						"leftLay"
+					],
+					[
+						"mar",
+						"margin\t(banner.vue)"
+					],
+					[
+						"pa",
+						"padding\t(banner.vue)"
+					],
+					[
+						"changeshop",
+						"changeshopL"
+					],
+					[
+						"shop",
+						"shopList"
+					],
+					[
+						"sh",
+						"shopList"
+					],
+					[
+						"tra",
+						"translateX\t(移动端轮播图.html)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"pi",
+						"pic_url\t(quanbu.js)"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"icon",
+						"iconfont"
+					],
+					[
+						"banL",
+						"banList\t(mainPage.vue)"
+					],
+					[
+						"cha",
+						"changep1"
+					],
+					[
+						"c",
+						"console"
+					],
+					[
+						"fun",
+						"function\t(index.html)"
+					],
+					[
+						"ban",
+						"banList"
+					],
+					[
+						"v",
+						"vue"
+					],
+					[
+						"texal",
+						"text-align"
+					],
+					[
+						"boer",
+						"border-radius"
+					],
+					[
+						"dis",
+						"dist\t(teste.html)"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"scr",
+						"scroll"
+					],
+					[
+						"console",
+						"console.log\t(index.html)"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"pars",
+						"parseInt"
+					],
+					[
+						"fontS",
+						"font-style"
+					],
+					[
+						"te",
+						"textarea\tHTML/Element"
+					],
+					[
+						"proto",
+						"prototype〔variable〕"
+					],
+					[
+						"cos",
+						"console\tjsProp"
+					],
+					[
+						"touch",
+						"touchmove"
+					],
+					[
+						"offst",
+						"offset"
+					],
+					[
+						"ta",
+						"target\tjsEvent"
+					],
+					[
+						"ar",
+						"arg"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"inner",
+						"innerHTML\t(jquery-3.2.1.js)"
+					],
+					[
+						"sel",
+						"selector"
+					],
+					[
+						"sle",
+						"selector"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"getEle",
+						"getElementsByTagName\tjsDOM"
+					],
+					[
+						"pre",
+						"prepend\tjQuery"
+					],
+					[
+						"bgco",
+						"background-color"
+					],
+					[
+						"w",
+						"window\t(task.html)"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"que",
+						"querySelectorAll"
+					],
+					[
+						"queryS",
+						"querySelectorAll\t(移动端轮播图.html)"
+					],
+					[
+						"ti",
+						"title"
+					],
+					[
+						"star",
+						"startUrl"
+					],
+					[
+						"requ",
+						"require"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"lists",
+						"list-style-type"
+					],
+					[
+						"tex",
+						"text"
+					],
+					[
+						"val",
+						"value\tAttr"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"user",
+						"userName"
+					],
+					[
+						"djq_p",
+						"djq_password"
+					],
+					[
+						"style",
+						"style\tHTML/Element"
+					],
+					[
+						"t",
+						"type\tAttr"
+					],
+					[
+						"conne",
+						"connect\t(user.php)"
+					],
+					[
+						"us",
+						"userName"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"body",
+						"bodyParser"
+					],
+					[
+						"pass",
+						"password\t(lsy_order.html)"
+					],
+					[
+						"doc",
+						"documentElement\tjsDOM"
+					],
+					[
+						"R",
+						"RegExp\t(administrator.html)"
+					],
+					[
+						"quers",
+						"querySelectorAll\t(index.js)"
+					],
+					[
+						"fail",
+						"failBack"
+					],
+					[
+						"get",
+						"getItem"
+					],
+					[
+						"lsy",
+						"lsy_Sale"
+					],
+					[
+						"ne",
+						"nereus\t(getData1.php)"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"loca",
+						"localStorage\tjsProp"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"JSON_",
+						"json_encode"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"spli",
+						"split\t(jquery-3.2.1.js)"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"onaj",
+						"onaj\t(ajax-sni..sublime-snippet)"
+					],
+					[
+						"da",
+						"dataType\t(taob.html)"
+					],
+					[
+						"aj",
+						"ajax\t(taob.html)"
+					],
+					[
+						"ba",
+						"background\t(index-yuanban - 副本.html)"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"n",
+						"null"
+					],
+					[
+						"mous",
+						"mouseout"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"getEl",
+						"getElementsByClassName\t(index.js)"
+					],
+					[
+						"child",
+						"children\t(index.html)"
+					],
+					[
+						"xti",
+						"xtitle\t(index.html)"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"getele",
+						"getElementsByTagName\t(jquery-3.2.1.js)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/web-design/JavaScript/MyWork/server.js",
+					"settings":
+					{
+						"buffer_size": 5459,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/东哥/Desktop/server.js",
+					"settings":
+					{
+						"buffer_size": 5491,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Lue</title>\n</head>\n\n<body>\n    <div id=\"app\">\n        <input type=\"text\" v-model='text'>{{text}}\n    </div>\n    <script type=\"text/javascript\">\n   \t\tlet log = console.log.bind(this)\n    \tlet dom = nodeToFragment(document.querySelector('#app'))\n    \tlog(dom)\n\n    \tfunction nodeToFragment(node){\n    \t\tlet flag = document.createDocumentFragment();\n    \t\tlet child;\n    \t\twhile(child = node.firstChild){\n    \t\t\tflag.append(child);\n    \t\t}\n    \t\treturn flag;\n    \t}\n\n\n    </script>\n    <script type=\"text/javascript\">\n\n    // var lue= new Lue({\n    // \tel:'#app',\n    // \tdata:{\n    // \t\ttext:'Nereus'\n    // \t}\n    // })\n\n  \n\n\n    function quickSort(array) {\n        // 交换元素位置\n        function swap(array, i, k) {\n            var temp = array[i];\n            array[i] = array[k];\n            array[k] = temp;\n        }\n        // 数组分区，左小右大\n        function partition(array, left, right) {\n            var storeIndex = left;\n            var pivot = array[right]; // 直接选最右边的元素为基准元素\n            for (var i = left; i < right; i++) {\n                if (array[i] < pivot) {\n                    swap(array, storeIndex, i);\n                    storeIndex++; // 交换位置后，storeIndex 自增 1，代表下一个可能要交换的位置\n                }\n            }\n            swap(array, right, storeIndex); // 将基准元素放置到最后的正确位置上\n            // log(`1--[${array}]    ${storeIndex}  value:${array[storeIndex]}`)\n            return storeIndex;\n        }\n        let jj = 0;\n\n        function sort(array, left, right) {\n            if (left > right) {\n                return;\n            }\n            var storeIndex = partition(array, left, right);\n            log(`1--[${array}]    ${storeIndex}  value:${array[storeIndex]}`)\n            jj++;\n            sort(array, left, storeIndex - 1);\n            log(`2--[${array}]    ${storeIndex}  value:${array[storeIndex]}`)\n            jj++;\n            sort(array, storeIndex + 1, right);\n            log(`3--[${array}]    ${storeIndex}  value:${array[storeIndex]}`)\n            jj++;\n            log('sad' + jj)\n        }\n        sort(array, 0, array.length - 1);\n        return array;\n    }\n    let arr = [3, 7, 8, 5, 2, 1, 9, 4, 5]\n    quickSort(arr)\n    // console.log(quickSort(arr))\n\n    const tasks=[];\n    for(var i=0;i<5;i++){\n    \t((j)=>{\n    \t\ttasks.push(new Promise((resolve)=>{\n    \t\t\tsetTimeout(()=>{\n\t    \t\t\tconsole.log(new Date,j)\n\t    \t\t\tresolve()\n    \t\t\t},1000*j);\n    \t\t}))\n\t    })(i)\n\t  }\n\n\t  Promise.all(tasks).then(()=>{\n\t  \tsetTimeout(function(){\n\t  \t\tconsole.log(new Date,i)\n\t  \t},1000)\n\t  })\n    </script>\n</body>\n\n</html>",
+					"file": "/F/web-design/JavaScript/learn/lue,快速排序.html",
+					"file_size": 2519,
+					"file_write_time": 131681548353131273,
+					"settings":
+					{
+						"buffer_size": 2626,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/web-design/JavaScript/learn/vue双向绑定.html",
+					"settings":
+					{
+						"buffer_size": 4059,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>react</title>\n    <script src=\"js/babel.js\"></script>\n    <script src=\"js/react.development.js\"></script>\n    <script src=\"js/react-dom.development.js\"></script>\n</head>\n<body>\n    <div id=\"box\"></div>\n    <div id=\"box2\"></div>\n    <?php \n    echo \"hsuadh\";\n    ?>\n    <script type=\"text/babel\">\n        let box= document.getElementById('box')\n        let box2= document.getElementById('box2')\n        let a = 'Hello React'\n        var x=<h1>{a}</h1>\n        ReactDOM.render(x,box)\n\n        let arr=['12','sad','sff']\n        // 驼峰\n        let ul=<div>\n          <ul style={{listStyleType:'none'}}>\n               {\n                   arr.map((item,index)=>{\n                       if(index==1){\n                           return <li key={index} style={{color:'red'}}>{item}</li>\n                       }else\n                       return <li key={index}>{item}</li>\n                   })\n               }\n           </ul>\n        </div>;\n        ReactDOM.render(ul,box)\n\n        //组件形式\n        let aa = new React.Component\n        console.log(aa)\n        console.log(React.Component)\n\n        \n        class List extends React.Component{\n              constructor(props){\n                  super(props);\n                  this.state={\n                      a:0\n                  }\n              }\n              click(p){\n                  this.setState({\n                      a:p\n                  })\n              }\n              render(){\n                  // console.log(this.props)\n                  return <ul>{\n                      this.props.data.map((item,index)=>{\n                         let cc=index==this.state.a?'red':'black';\n                         return <li onClick={()=>{\n                             this.click(index)\n                         }} key={index} style={{color:cc}}>{item}</li>\n\n                      })\n                  }\n                  </ul>\n              }\n        }\n        ReactDOM.render(<div><List data={arr}></List></div>,box2)\n    </script>\n</body>\n</html>",
+					"file": "/D/wamp64/hello.html",
+					"file_size": 2167,
+					"file_write_time": 131690142200308101,
+					"settings":
+					{
+						"buffer_size": 2082,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>react</title>\n</head>\n<body>\n    <div id=\"box\"></div>\n    <div id=\"box2\"></div>\n    <?php \n\n      echo \"hsuadh\";\n      \n    ?>\n</body>\n</html>",
+					"file": "/D/wamp64/www/hello.html",
+					"file_size": 253,
+					"file_write_time": 131690144769828995,
+					"settings":
+					{
+						"buffer_size": 220,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\n\techo \" asd\";\n?>",
+					"settings":
+					{
+						"buffer_size": 22,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp64/www/jin/lyd/taob2.php",
+					"settings":
+					{
+						"buffer_size": 716,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/chrome download/移动WEB课程案例参考/js/zepto.js",
+					"settings":
+					{
+						"buffer_size": 63731,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"wr",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"wrap",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"vue",
+						"Set Syntax: Vue Component"
+					],
+					[
+						"paka",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"less",
+						"Set Syntax: Less"
+					],
+					[
+						"ona",
+						"Snippet: for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"Snippet: ",
+						"Snippet: 打开手机上其它应用，并且可以传递参数"
+					],
+					[
+						"snip",
+						"Snippet: ajax-sni."
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"acti",
+						"Material Theme: Activate theme"
+					],
+					[
+						"jsa",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sidebar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/5xO2DE6DVo",
+				"/G/node/nodelx",
+				"/F/web-design/react"
+			],
+			"file_history":
+			[
+				"/G/daydaycook/node_modules/qs/README.md",
+				"/G/daydaycook/node_modules/_axios@0.18.0@axios/README.md",
+				"/F/web-design/JavaScript/learn/node_modules/hammerjs/hammer.js",
+				"/F/web-design/前端酷炫小动画/pd-275cac4c-db49-11e4-b73a-00163e001348/jquery-3d-150405120631/index.html",
+				"/G/daydaycook/node_modules/koa/Readme.md",
+				"/G/node/nodelx/httptest.js",
+				"/G/node/nodelx/teste.js",
+				"/G/node/nodelx/a.html",
+				"/G/node/nodelx/sock.js",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+				"/G/node/nodelx/teste.html",
+				"/G/daydaycook/package.json",
+				"/G/node/nodelx/node_modules/express/Readme.md",
+				"/F/web-design/JavaScript/learn/canvas碰撞.html",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/5xO2DE6DVo/app.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/素材文件及源代码/2_登录页面/结果文件/login.html",
+				"/F/web-design/JavaScript/learn/node_modules/hammerjs/README.md",
+				"/G/webpacklx/webpack.config.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/后台/9_左侧导航(4)/结果文件/js/script.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/后台/7_左侧导航(2)/结果文件/js/script.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/后台/5_顶部导航(2)/结果文件/js/script.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/后台/1_项目需求分析与准备工作/结果文件/js/script.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/后台/6_左侧导航(1)/结果文件/js/script.js",
+				"/G/daydaycook/README.md",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/jQuery api 1.8 中文版.chm",
+				"/D/chrome download/vue-meitu-master/README.md",
+				"/F/web-design/vue-cli/vue-ro/src/App.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/news.vue",
+				"/F/web-design/vue-cli/vue-ro/src/router/index.js",
+				"/F/web-design/vue-cli/vue-ro/config/index.js",
+				"/F/web-design/vue-cli/vue-ro/.postcssrc.js",
+				"/C/Users/东哥/Desktop/http原理",
+				"/F/web-design/JavaScript/learn/grid.html",
+				"/F/web-design/JavaScript/learn/jss.json",
+				"/D/wamp64/www/node_modules/_uuid@3.2.1@uuid/.eslintrc.json",
+				"/F/web-design/JavaScript/飞秋/musicPlayer/musicPlayer.html",
+				"/F/web-design/JavaScript/MyWork/拖拽面向对象2.html",
+				"/G/daydaycook/config/index.js",
+				"/F/web-design/JavaScript/learn/jss..eslintrc",
+				"/F/web-design/JavaScript/MyWork/workSpace/面向对象继承/index.html",
+				"/C/Program Files (x86)/360/360Safe/safemon/chrome/manifest.json",
+				"/F/web-design/JavaScript/MyWork/练手轮播图.html",
+				"/G/daydaycook/src/components/mainPage.vue",
+				"/G/daydaycook/src/components/recipes.vue",
+				"/G/daydaycook/src/api/car.php",
+				"/G/daydaycook/src/api/myfond.php",
+				"/D/wamp64/www/jin/lycar.js",
+				"/G/daydaycook/src/components/user.vue",
+				"/G/node/insMediaDown/insMediaDown/index.js",
+				"/G/daydaycook/node_modules/vue-img-inputer/README-CN.MD",
+				"/F/web-design/vue-cli/vuexpre/src/components/txt2.vue",
+				"/F/web-design/vue-cli/vuexpre/src/vuex/index.js",
+				"/G/daydaycook/index.html",
+				"/G/daydaycook/node_modules/_vux@2.8.0@vux/src/theme.less",
+				"/G/node/insMediaDown/insMediaDown/config.js",
+				"/F/web-design/vue-cli/vuexpre/src/components/list2.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/pic2.vue",
+				"/F/web-design/vue-cli/vue-ro/src/components/pic.vue",
+				"/F/web-design/vue-cli/vuexpre/package.json",
+				"/F/web-design/vue-cli/vuexpre/src/components/xdialog.vue",
+				"/G/daydaycook/src/api/qq.php",
+				"/F/web-design/vue-cli/vuexpre/src/App.vue",
+				"/F/web-design/vue-cli/vue-ro/package.json",
+				"/D/wamp64/www/jin/wang/getData1.php",
+				"/D/wamp64/www/jin/wang/danpin10.html",
+				"/G/daydaycook/node_modules/axios/README.md",
+				"/D/wamp64/www/jin/wang/fenlei.html",
+				"/D/wamp64/www/jin/wang/quanbu.js",
+				"/G/daydaycook/src/assets/zepto.js",
+				"/G/daydaycook/src/assets/zepto.min.js",
+				"/G/daydaycook/src/assets/ajax.js",
+				"/G/daydaycook/node_modules/zepto/src/ajax.js",
+				"/D/wamp64/www/jin/wang/car.php",
+				"/D/wamp64/www/jin/wang/qq.php",
+				"/D/wamp64/www/jin/wang/taob2.php",
+				"/G/daydaycook/src/vuex/index.js",
+				"/G/daydaycook/src/main.js",
+				"/G/daydaycook/src/base/banner.vue",
+				"/G/vuecli/src/components/message.vue",
+				"/F/web-design/JavaScript/MyWork/excellent/瀑布流/瀑布流.html",
+				"/F/web-design/JavaScript/MyWork/移动端轮播图.html",
+				"/G/daydaycook/src/App.vue",
+				"/G/daydaycook/src/components/headTitle.vue",
+				"/G/daydaycook/src/components/shopCar.vue",
+				"/G/daydaycook/src/components/myFoot.vue",
+				"/G/daydaycook/src/router/index.js",
+				"/G/vuecli/src/App.vue",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/G/daydaycook/node_modules/vue-jsonp/README.md",
+				"/G/daydaycook/node_modules/_alloyfinger@0.1.13@alloyfinger/README.md",
+				"/G/daydaycook/node_modules/_boom@2.10.1@boom/node_modules/hoek/lib/index.js",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/webpack.config.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/index.html",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/src/main.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/src/exportModule.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/dist/module.js",
+				"/D/chrome download/jq22vue-concise-slider1397201709200120/vue-concise-slider/dist/build.js",
+				"/D/wamp64/www/jin/lsy/js/car.php",
+				"/D/wamp64/www/jin/lsy/lsy_order.html",
+				"/D/wamp64/www/jin/lsy/js/lsy_order.js",
+				"/D/wamp64/www/jin/lsy/shopcar.html",
+				"/D/wamp64/www/jin/lsy/.project",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/User/rem-unit.sublime-settings",
+				"/C/Users/东哥/AppData/Roaming/Sublime Text 3/Packages/rem-unit/rem-unit.sublime-settings",
+				"/G/node/nodelx/node_modules/fstream/lib/socket-reader.js",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/爬虫制作步骤.txt",
+				"/G/vuecli/src/main.js",
+				"/G/vuecli/index.html",
+				"/G/wei/wafer2-quickstart-nodejs-master/server/config.js",
+				"/G/vuecli/src/components/star.vue",
+				"/F/web-design/JavaScript/飞秋/jquery day 04/五角星.html",
+				"/F/girls/inskeeper.js",
+				"/F/girls/node_modules/request/README.md",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/main.js",
+				"/C/Users/东哥/Documents/WeChat Files/DY1210921/Files/index.js",
+				"/G/vuecli/node_modules/vue-resource/test/webpack.config.js",
+				"/G/vuecli/node_modules/vue-resource/src/promise.js",
+				"/G/vuecli/node_modules/vue-resource/README.md",
+				"/G/vuecli/package.json",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/routes/users.js",
+				"/F/BaiduNetdiskDownload/JS-1.22-Node.js爬虫爬取NBA新闻数据-小龙/node爬虫/app.js",
+				"/F/girls/main.js",
+				"/F/girls/imgBridge/imgBridge.js"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ndex}",
+					"{array}",
+					"+[array])",
+					"var",
+					"webpack-cli",
+					"webpack",
+					"touchstart",
+					"touch",
+					"tap",
+					"uri",
+					"Man",
+					":function",
+					"t()",
+					"for",
+					"help",
+					"))",
+					"console.log(",
+					"5",
+					"15px",
+					"5",
+					"auto",
+					"@/ass",
+					"img",
+					"mg",
+					"pic",
+					"shoplist",
+					"un",
+					"737",
+					".replace(/<[^<>]+>/g,'')",
+					"tao",
+					"'￥",
+					"ti",
+					"this.pic[",
+					"@",
+					"price:'小蛋糕'",
+					"pric",
+					"con",
+					"pC",
+					"Car",
+					"recipe",
+					"15",
+					"p",
+					"'changesho",
+					"8",
+					".leftLay",
+					"shop",
+					"changeshop",
+					"foodList",
+					"tt",
+					"con",
+					"h:'/'",
+					"path:'/'",
+					"h3",
+					"foodList",
+					"foodlist",
+					"ds",
+					"icons",
+					"icon\">",
+					"sr",
+					"class=\"iconfo",
+					"<i cla",
+					"img",
+					"nn",
+					"<p class=\"title\">{{x.title}}</p>",
+					"{{x}}",
+					"jsonp",
+					"add",
+					"lsyAdd",
+					"lsyAdd()",
+					"lsyAdd();",
+					"ice",
+					"i",
+					"http",
+					"https",
+					"http",
+					"BMapWX",
+					"BMapWx",
+					"option",
+					"%;\n",
+					"2",
+					"long",
+					"+'px'",
+					"textarea",
+					"div",
+					"curl",
+					"3000",
+					"ballmove",
+					"addImage",
+					"play",
+					"paly",
+					"Game.context",
+					"this",
+					"this.",
+					"context",
+					"Context",
+					"context",
+					"\">\n",
+					"ballX",
+					"this.",
+					"play",
+					"gameTick",
+					"clearScreen",
+					"fillTex",
+					"fillText",
+					"function",
+					"leval",
+					"level",
+					"init",
+					"cat.$('.banner')",
+					";\n",
+					"cat.$('.banner')",
+					"prototype",
+					"rnd",
+					"boardX",
+					"mouseMoveHandler",
+					"game",
+					".start",
+					"addImage",
+					"ball",
+					"bricks",
+					"thinking-glow",
+					"createjs",
+					"createjs.LoadQueue",
+					"manifest",
+					"this",
+					"$(this)",
+					"extend",
+					"fn"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\web-design\\JavaScript\\learn"
+				},
+				{
+					"path": "F:\\web-design\\vue-cli\\vue-ro"
+				},
+				{
+					"path": "C:\\Users\\东哥\\Documents\\WeChat Files\\DY1210921\\Files\\5xO2DE6DVo"
+				},
+				{
+					"path": "G:\\node\\nodelx"
+				},
+				{
+					"path": "F:\\web-design\\react"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/web-design/JavaScript/MyWork/server.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"SL.16.region_keys":
+									[
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+									],
+									"SL.22.region_keys":
+									[
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 16,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/东哥/Desktop/server.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5491,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										649,
+										649
+									]
+								],
+								"settings":
+								{
+									"SL.15.region_keys":
+									[
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+									],
+									"SL.16.region_keys":
+									[
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+									],
+									"SL.17.region_keys":
+									[
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 28.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/web-design/JavaScript/learn/lue,快速排序.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2626,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2577,
+										2577
+									]
+								],
+								"settings":
+								{
+									"SL.16.region_keys":
+									[
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot"
+									],
+									"SL.34.region_keys":
+									[
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1580.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/web-design/JavaScript/learn/vue双向绑定.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4059,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										4059
+									]
+								],
+								"settings":
+								{
+									"SL.17.region_keys":
+									[
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+										"sublime_linter.protected_regions"
+									],
+									"SL.25.region_keys":
+									[
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"sublime_linter.protected_regions",
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1500.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/wamp64/hello.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2082,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										528,
+										528
+									]
+								],
+								"settings":
+								{
+									"SL.18.region_keys":
+									[
+										"sublime_linter.protected_regions"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												525,
+												527
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												517,
+												519
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/wamp64/www/hello.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 220,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										157,
+										157
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												153,
+												156
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												137,
+												140
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										22,
+										22
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"default_dir": "F:\\web-design\\react\\reactlx",
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/wamp64/www/jin/lyd/taob2.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 716,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										703,
+										703
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												706,
+												707
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												686,
+												687
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												706,
+												707
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												686,
+												687
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/chrome download/移动WEB课程案例参考/js/zepto.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 63731,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58495,
+										58505
+									]
+								],
+								"settings":
+								{
+									"SL.21.region_keys":
+									[
+										"SL.jshint.Highlights.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+										"SL.jshint.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32",
+										"SL.jshint.Gutter.region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter.dot",
+										"SL.jshint.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+										"sublime_linter.protected_regions"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 34009.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 72.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 48.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,1006,261,208,1594",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"JavaScript\\飞秋\\02作业.html"
+					],
+					[
+						"验证",
+						"JavaScript\\飞秋\\ajax02(1)\\验证码.html"
+					],
+					[
+						"拖拽",
+						"JavaScript\\MyWork\\拖拽面向对象2.html"
+					],
+					[
+						"插件",
+						"JavaScript\\飞秋\\JQ放大镜\\jq放大镜插件.js"
+					],
+					[
+						"练手",
+						"JavaScript\\MyWork\\练手轮播图.html"
+					],
+					[
+						"放大镜",
+						"web-design\\JavaScript\\飞秋\\JQ放大镜\\jq放大镜插件.html"
+					],
+					[
+						"jquery-3",
+						"web-design\\jquery-3.2.1.js"
+					],
+					[
+						"滑",
+						"web-design\\前端酷炫小动画\\拖拽滑块进行验证.html"
+					],
+					[
+						"ser",
+						"web-design\\JavaScript\\MyWork\\server.js"
+					],
+					[
+						"jquery",
+						"web-design\\jquery-3.2.1.js"
+					],
+					[
+						"qq",
+						"jin\\lyd\\qq.php"
+					],
+					[
+						"城市",
+						"前端课程\\JavaScript练习\\MyWork\\城市选择.html"
+					],
+					[
+						"zcdl",
+						"前端课程\\JavaScript练习\\飞秋\\sql\\zcdl.php"
+					],
+					[
+						"kai",
+						"jin\\lyd\\register\\kaitou  jiewei.html"
+					],
+					[
+						"ski",
+						"jin\\skip.js"
+					],
+					[
+						"kaitou",
+						"前端课程\\JavaScript练习\\飞秋\\kaitou  jiewei.html"
+					],
+					[
+						"book",
+						"JavaScript练习\\飞秋\\ajax02\\book\\book.html"
+					],
+					[
+						"danpin",
+						"D:\\chrome download\\danpin.html"
+					],
+					[
+						"sea",
+						"JavaScript练习\\MyWork\\search接口.js"
+					],
+					[
+						"boo",
+						"JavaScript练习\\飞秋\\book.php"
+					],
+					[
+						"滑块",
+						"前端酷炫小动画\\拖拽滑块进行验证.html"
+					],
+					[
+						"瀑布流",
+						"JavaScript练习\\飞秋\\ajax03\\瀑布流\\瀑布流.html"
+					],
+					[
+						"exell",
+						"JavaScript练习\\MyWork\\excellent\\水仙数.html"
+					],
+					[
+						"封装",
+						"封装的函数.js"
+					],
+					[
+						"查找",
+						"JavaScript练习\\飞秋\\jquery day 02\\查找.html"
+					],
+					[
+						"周末",
+						"周末作业\\index.html"
+					],
+					[
+						"旋转木马",
+						"JavaScript练习\\飞秋\\js-12\\13-旋转木马.html"
+					],
+					[
+						"节流",
+						"JavaScript练习\\飞秋\\js-13\\10-选项卡切换闭包节流.html"
+					],
+					[
+						"city",
+						"JavaScript练习\\飞秋\\citydata.js"
+					],
+					[
+						"分页",
+						"JavaScript练习\\飞秋\\09-分页.html"
+					],
+					[
+						"轮播图",
+						"JavaScript练习\\飞秋\\js-15获取位置和阻止事件\\01-轮播图.html"
+					],
+					[
+						"手风琴",
+						"手风琴\\手风琴.html"
+					],
+					[
+						"计算器",
+						"JavaScript练习\\MyWork\\计算器.html"
+					],
+					[
+						"手",
+						"手风琴作业\\手风琴.html"
+					],
+					[
+						"木马",
+						"JavaScript练习\\飞秋\\js-12\\13-旋转木马.html"
+					],
+					[
+						"do轮播",
+						"JavaScript练习\\MyWork\\DOM轮播图.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 183.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 42,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

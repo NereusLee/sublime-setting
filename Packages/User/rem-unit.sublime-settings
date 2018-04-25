@@ -1,0 +1,4 @@
+{
+	 "fontsize": 25,
+	 "exts": [".css", ".scss", ".less", ".sass", ".styl",".vue"]
+}

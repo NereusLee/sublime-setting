@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"APICloudLoader",
+		"APICloudSnippets",
+		"Better Completion",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"JSHint Gutter",
+		"JSX",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"Phpcs",
+		"RailsCasts Colour Scheme",
+		"rem-unit",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeREPL",
+		"SublimeServer",
+		"Terminal"
+	]
+}
